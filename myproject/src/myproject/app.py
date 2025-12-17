@@ -2,7 +2,7 @@ from myproject.utils import greet
 
 
 def main():
-    print(greet("c"))
+    print(greet("d"))
 
 
 if __name__ == "__main__":
